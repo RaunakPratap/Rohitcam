@@ -1,0 +1,45 @@
+IP                   : 223.225.250.94
+IP Type              : IPv4
+User OS              : Android
+Version              : 12;
+User Agent           : Mozilla/5.0 (Linux; Android 12; V2029 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Lucknow, India, Asia
+GeoLocation(lat, lon): 26.8466937, 80.946166
+Currency             : Indian Rupee
+IP                   : 223.225.250.94
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Lucknow, India, Asia
+GeoLocation(lat, lon): 26.8466937, 80.946166
+Currency             : Indian Rupee
+IP                   : 223.225.250.94
+IP Type              : IPv4
+User OS              : Android
+Version              : 12;
+User Agent           : Mozilla/5.0 (Linux; Android 12; V2029 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Lucknow, India, Asia
+GeoLocation(lat, lon): 26.8466937, 80.946166
+Currency             : Indian Rupee
+IP                   : 223.225.250.94
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Lucknow, India, Asia
+GeoLocation(lat, lon): 26.8466937, 80.946166
+Currency             : Indian Rupee
+IP                   : 106.208.154.170
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Lucknow, India, Asia
+GeoLocation(lat, lon): 26.8466937, 80.946166
+Currency             : Indian Rupee
